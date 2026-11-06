@@ -5,6 +5,8 @@ Independent software developer building practical AI-assisted applications, web 
 **Portfolio:** [Sanctus Technology](https://sanctustechnology.com.ng)  
 **GitHub:** [@skanifegowoh-sudo](https://github.com/skanifegowoh-sudo)
 
+[Browse the full project catalogue](PROJECTS.md) — live demos, public code and private source snapshots.
+
 ## Selected work
 
 | Project | What I built | Explore |
@@ -31,6 +33,7 @@ Independent software developer building practical AI-assisted applications, web 
 
 - [Sanctus TV Visual Reliability Agent](https://github.com/skanifegowoh-sudo/sanctus-tv-visual-reliability-agent) — reproducible computer-vision project with tests and documentation
 - [Spiritus Services](https://github.com/skanifegowoh-sudo/Spiritus-Services) — Capacitor wrapper for the Enugu Diocese Portal
+- [Sanctus Technology Website](https://github.com/skanifegowoh-sudo/sanctus-technology-website) — HTML, CSS and JavaScript website snapshot
 
 Several commercial, client and actively developed codebases are maintained privately. A live demo or description does **not** imply that the corresponding source repository is public.
 
